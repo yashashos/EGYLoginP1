@@ -13,8 +13,8 @@
     'use strict';
 
     const credentials = {
-        email: "YASDZ2024@gmail.com",
-        password: "112345YASDZ@"
+        email: "YASDZ2024@gmail.com", //Write your email here.
+        password: "112345YASDZ@" // Type your account password on bls.
     };
 
     const loginUrl = "https://egypt.blsspainglobal.com/Global/Account/Login".toLowerCase();
