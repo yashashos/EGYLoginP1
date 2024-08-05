@@ -14,8 +14,8 @@
 
 
 
-const email = "yashashos2022@gmail.com"; //Write your email here.
-const passwordValue = "AIS2571976fis@"; // Type your account password on bls.
+const email = "yas2022@gmail.com"; //Write your email here.
+const passwordValue = "A2571976@@"; // Type your account password on bls.
 
 const loginUrlPrefix = "https://egypt.blsspainglobal.com/Global/Account/Login".toLowerCase();
 
